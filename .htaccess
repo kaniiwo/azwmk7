@@ -1,4 +1,6 @@
 AuthType     Basic
 AuthName     "Portforio"
-AuthUserFile /github.com/kaniiwo/azwmk7/blob/main/.htaccess
+AuthUserFile \Users\azwmk\OneDrive\デスクトップ\html\★html\.htaccess
 require valid-user
+
+AddHandler phpX.X-script .htm .html
