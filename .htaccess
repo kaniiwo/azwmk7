@@ -1,6 +1,0 @@
-AuthType     Basic
-AuthName     "Portforio"
-AuthUserFile \Users\azwmk\OneDrive\デスクトップ\html\★html\.htaccess
-require valid-user
-
-AddHandler phpX.X-script .htm .html
